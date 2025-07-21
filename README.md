@@ -29,7 +29,7 @@ To automate and streamline vendor performance analysis by:
 
 ## Project Workflow
 
-1. Data Collection & Structuring
+### 1. Data Collection & Structuring
 All raw vendor-related data, including purchases, sales, prices, and freight invoices, is collected and organized into a structured database. This ensures consistency and enables seamless access for analysis.
 
 ### 2. Vendor Performance Summary Generation
