@@ -1,0 +1,8 @@
+# Ignore data files and large binaries
+data/
+*.db
+inventory.db
+*.log
+logs/
+.ipynb_checkpoints/
+__pycache__/
