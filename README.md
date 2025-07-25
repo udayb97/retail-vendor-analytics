@@ -51,3 +51,20 @@ Key metrics such as purchase volumes, sales revenue, gross profit, and freight c
 - What is the capital exposure from unsold inventory, and which vendors are responsible for it?  
 
 ---
+
+## Dashboard Overview
+To support the analysis and make insights more accessible, a dynamic Vendor Performance Dashboard has been developed. This dashboard visualizes key financial metrics and performance indicators in an intuitive format.
+
+Key Visualizations:
+
+Top Vendors by Sales and Purchase Contribution
+
+Gross Profit, Profit Margin, and Unsold Capital
+
+Top Performing Brands and Low Performing Vendors/Brands
+
+Brand-wise scatter plot analysis (Total Sales vs Avg Profit Margin)
+
+This enables procurement and finance teams to make faster, data-driven decisions.
+
+<p align="center"> <img src="images/snapshot.png" alt="Vendor Performance Dashboard" width="800"/> </p>
