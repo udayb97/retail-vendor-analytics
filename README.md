@@ -65,6 +65,4 @@ Top Performing Brands and Low Performing Vendors/Brands
 
 Brand-wise scatter plot analysis (Total Sales vs Avg Profit Margin)
 
-This enables procurement and finance teams to make faster, data-driven decisions.
-
 <p align="center"> <img src="images/snapshot.png" alt="Vendor Performance Dashboard" width="800"/> </p>
